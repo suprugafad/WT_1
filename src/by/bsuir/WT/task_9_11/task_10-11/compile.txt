@@ -1,0 +1,1 @@
+javac -d ../bin by/bsuir/WT/tasks/task9/entity/Ball.java  by/bsuir/WT/tasks/task9/entity/Basket.java by/bsuir/WT/tasks/task9/entity/Color.java by/bsuir/WT/tasks/task9/Task9.java
